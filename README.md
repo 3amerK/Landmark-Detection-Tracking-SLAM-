@@ -2,7 +2,7 @@
 
 Computer Vision Nanodegree Program
 
-Project 1: Landmark Detection Tracking (SLAM)
+Project 3: Landmark Detection Tracking (SLAM)
 
 This project implement SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world! 
 Combine robot sensor measurements and movement to create a map of an environment from only sensor 
